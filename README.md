@@ -1,4 +1,4 @@
-- 👋 Hi, Miraa here!
+- 👋 Hi, AsTeria here!
 - Skilled in HTML, CSS , JAVASCRIPT , BOOTSTRAP, TAILWIND , REACT.JS.
 - 🌱Currently learning mern stack
 - 📫 Contact me at : mahiraakhter950@gmail.com
