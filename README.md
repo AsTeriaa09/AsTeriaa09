@@ -1,29 +1,6 @@
-<h1 align="center">Hello!👋, I'm Sultana Rupa.</h1>
-<h3 align="center">Mern stack web developer</h3>
+<h1 align="center">Hello! 👋, I'm Sultana Rupa.</h1>
 
-- 🔭 I’m currently working on **mern stack projects**
-
-- 🌱 I’m currently learning **Full stack development**
-
-- 👯 I’m looking to collaborate on **Frontend and Backend mern projects**
-
-- 💬 Ask me about **Javascript,bootstrap,tailwind,React,node,express,mongoDB etc**
-
-- 📫 How to reach me **mahiraakhter950@gmail.com**
-
-- ⚡ Fun fact **I turn imagination into code!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sultana-rupa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sultana-rupa" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22944223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22944223" height="30" width="40" /></a>
-<a href="https://codesandbox.com/sultana-rupa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sultana-rupa" height="30" width="40" /></a>
-<a href="https://fb.com/sultana-rupa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sultana-rupa" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sultana-rupa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sultana-rupa" height="30" width="40" /></a>
-<a href="https://discord.gg/http://discordapp.com/users/1204809196038529074" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="http://discordapp.com/users/1204809196038529074" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Skills</h3>
 <p align="left"> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
@@ -64,9 +41,22 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
     </a> 
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="next.js" width="40" height="40"/> 
+    </a>
+    <a href="https://langchain.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://user-images.githubusercontent.com/5769148/232338036-a4c6e61e-f686-45d0-a6c1-dc29073a3039.png" alt="langchain" width="40" height="40"/> 
+    </a>
+    <a href="https://ai.google/tools/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn-icons-png.flaticon.com/512/2991/2991148.png" alt="ai" width="40" height="40"/> 
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+    </a>
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/AsTeriaa"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="AsTeriaa" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AsTeriaa09&show_icons=true&locale=en&layout=compact" alt="AsTeriaa09" /></p>
+<h3 align="center">GitHub Stats</h3>
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AsTeriaa09&" alt="AsTeriaa09" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AsTeriaa09&show_icons=true&locale=en&layout=compact" alt="AsTeriaa09" />
+</div>
