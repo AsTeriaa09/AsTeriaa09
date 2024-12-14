@@ -1,4 +1,3 @@
-
 <h1 align="center">Hello! 👋, I'm Sultana Rupa.</h1>
 
 <h3 align="center">My Skills</h3>
@@ -53,9 +52,11 @@
     </a>
 </p>
 
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AsTeriaa09&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="180" alt="streaks graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AsTeriaa09&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="most used languages graph"  />
-</div>
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=AsTeriaa09&locale=en&theme=radical&hide_border=false&border_radius=5" height="180" alt="streaks graph"  />
 
+
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AsTeriaa09&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="most used languages graph" />
+</div>
