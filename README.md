@@ -30,6 +30,6 @@
 
 <div align="center">
     <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asteriaa09&show_icons=true&locale=en&&theme=dark&layout=compact" alt="asteriaa09" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com?user=AsTeriaa09&theme=dark" alt="GitHub Streak" /> </p>
+<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AsTeriaa09&theme=dark" alt="GitHub Streak" /></a> </p>
 </div>
 
