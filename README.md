@@ -45,13 +45,13 @@
 
 ---
 <p align="center" width="100%">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AsTeriaa09&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="37%">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AsTeriaa09&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="45%">
 </p>
-<p width="100%">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AsTeriaa09&theme=dark" alt="GitHub Streak" width="40%" /></a>
+<p align="center" width="100%">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AsTeriaa09&theme=dark" alt="GitHub Streak" width="49%" /></a>
 </p>
-<div align="left" width="100%">
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asteriaa09&show_icons=true&locale=en&&theme=dark&layout=compact" alt="asteriaa09" width="32%" /></p>
+<div align="center" width="100%">
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asteriaa09&show_icons=true&locale=en&&theme=dark&layout=compact" alt="asteriaa09" width="35%" /></p>
 
 </div>
 
