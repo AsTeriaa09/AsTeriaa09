@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">, I'm Sultana Rupa</h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=f39c12&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;3years%2B+Coding+Experience" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=f39c12&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;4years%2B+Coding+Experience" alt="Typing SVG" /></a>
 </p>
 
 ### Languages
