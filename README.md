@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 	 <a href="https://rupa09.vercel.app/">
-    <img src="https://img.shields.io/badge/Porfolio-333333?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
 </div>
