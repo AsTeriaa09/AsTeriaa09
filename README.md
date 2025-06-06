@@ -1,7 +1,63 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">, I'm Sultana Rupa</h1>
+<h1 align="center">🚀Sultana Rupa</h1>
+
+
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=f39c12&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;4years%2B+Coding+Experience" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=888888&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Full+Stack+Developer;4%2B+Years+of+Experience" alt="Typing Animation" />
 </p>
+
+<div align="center">
+  <a href="https://linkedin.com/in/sultana-rupa-3662a3318">
+    <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rupasultanaa.09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+	 <a href="https://rupa09.vercel.app/">
+    <img src="https://img.shields.io/badge/Porfolio-333333?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+</div>
+
+</div>
+
+
+
+## 🏆 Achievement Showcase
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🥇-CHAMPION-FFD700?style=flat-square&labelColor=000000" />
+<br><strong>Software Showcase</strong>
+<br><sub>UAP SNH Club</sub>
+<br><a href="https://www.linkedin.com/posts/sultana-rupa-3662a3318_hackathon-softwareshowcase-teamwork-activity-7334601014450208768-40GD">🔗 INNOVATEX 2025</a>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🥈-1ST%20RUNNER%20UP-C0C0C0?style=flat-square&labelColor=000000" />
+<br><strong>Hackathon</strong>
+<br><sub>UAP SNH Club</sub>
+<br><a href="https://www.linkedin.com/posts/sultana-rupa-3662a3318_hackathon-softwareshowcase-teamwork-activity-7334601014450208768-40GD">🔗 INNOVATEX 2025</a>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🥈-1ST%20RUNNER%20UP-C0C0C0?style=flat-square&labelColor=000000" />
+<br><strong>Ideathon</strong>
+<br><sub>UAP ECDC Club</sub>
+<br><a href="https://www.linkedin.com/posts/sultana-rupa-3662a3318_whirlwind-of-an-experience-at-ecdccapped-activity-7328796614574166016-zmTm">🔗 IDEA Season 4.0</a>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🎖️-4TH%20PLACE-CD7F32?style=flat-square&labelColor=000000" />
+<br><strong>Hackathon</strong>
+<br><sub>MIST Innovation Club</sub>
+<br><a href="https://www.linkedin.com/posts/sultana-rupa-3662a3318_we-the-mavericks-participated-in-the-mist-activity-7304528490811269121-u0cB">🔗 NEOFETCH</a>
+</td>
+</tr>
+</table>
+</div>
+
+---
+## 💻 Tech Arsenal
+
 
 ### Languages
 <p>
@@ -53,16 +109,28 @@
 </p>
 
 ---
-<p align="center" width="100%">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AsTeriaa09&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="45%">
-</p>
-<p align="center" width="100%">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AsTeriaa09&theme=dark" alt="GitHub Streak" width="49%" /></a>
-</p>
-<div align="center" width="100%">
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asteriaa09&show_icons=true&locale=en&&theme=dark&layout=compact" alt="asteriaa09" width="35%" /></p>
-
+<div align="center">
+<img width="42%" src="https://github-readme-stats.vercel.app/api?username=AsTeriaa09&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Statistics" />
+<img width="42%" src="https://github-readme-streak-stats.herokuapp.com?user=AsTeriaa09&theme=dark&hide_border=true&stroke=888888&ring=888888&fire=888888&currStreakLabel=888888" />
 </div>
+
+<div align="center">
+<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsTeriaa09&theme=dark&hide_border=true&layout=compact&custom_title=Most%20Used%20Languages" />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+<img src="https://img.shields.io/badge/🔥-Building%20Python%20Web%20Apps-333333?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/🚀-Exploring%20AI%20Integration-333333?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/💡-Open%20to%20Collaborations-333333?style=flat-square&labelColor=000000" />
+</div>
+
+---
+
+
 
 
 	
