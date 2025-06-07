@@ -20,12 +20,10 @@
 
 </div>
 
-
-
-
-
 ---
 ## 💻 Tech Arsenal
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="360px"/>
+
 
 
 ### Languages
@@ -77,6 +75,10 @@
     <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
+</div>
+
+
+
 ---
 
 ## 🏆 Achievement Showcase
@@ -123,8 +125,6 @@
 
 ---
 
-
-
 ## 🎯 Current Focus
 
 <div align="center">
@@ -133,11 +133,5 @@
 <img src="https://img.shields.io/badge/💡-Open%20to%20Collaborations-333333?style=flat-square&labelColor=000000" />
 </div>
 
-
-
-
-
-
-	
 
 
