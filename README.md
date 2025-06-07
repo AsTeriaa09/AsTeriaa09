@@ -22,38 +22,7 @@
 
 
 
-## 🏆 Achievement Showcase
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🥇-CHAMPION-FFD700?style=flat-square&labelColor=000000" />
-<br><strong>Software Showcase</strong>
-<br><sub>UAP SNH Club</sub>
-<br><a href="https://www.linkedin.com/posts/sultana-rupa-3662a3318_hackathon-softwareshowcase-teamwork-activity-7334601014450208768-40GD">🔗 INNOVATEX 2025</a>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🥈-1ST%20RUNNER%20UP-C0C0C0?style=flat-square&labelColor=000000" />
-<br><strong>Hackathon</strong>
-<br><sub>UAP SNH Club</sub>
-<br><a href="https://www.linkedin.com/posts/sultana-rupa-3662a3318_hackathon-softwareshowcase-teamwork-activity-7334601014450208768-40GD">🔗 INNOVATEX 2025</a>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🥈-1ST%20RUNNER%20UP-C0C0C0?style=flat-square&labelColor=000000" />
-<br><strong>Ideathon</strong>
-<br><sub>UAP ECDC Club</sub>
-<br><a href="https://www.linkedin.com/posts/sultana-rupa-3662a3318_whirlwind-of-an-experience-at-ecdccapped-activity-7328796614574166016-zmTm">🔗 IDEA Season 4.0</a>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🎖️-4TH%20PLACE-CD7F32?style=flat-square&labelColor=000000" />
-<br><strong>Hackathon</strong>
-<br><sub>MIST Innovation Club</sub>
-<br><a href="https://www.linkedin.com/posts/sultana-rupa-3662a3318_we-the-mavericks-participated-in-the-mist-activity-7304528490811269121-u0cB">🔗 NEOFETCH</a>
-</td>
-</tr>
-</table>
-</div>
 
 ---
 ## 💻 Tech Arsenal
@@ -109,6 +78,40 @@
 </p>
 
 ---
+
+## 🏆 Achievement Showcase
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🥇-CHAMPION-FFD700?style=flat-square&labelColor=000000" />
+<br><strong>Software Showcase</strong>
+<br><sub>UAP SNH Club</sub>
+<br><a href="https://www.linkedin.com/posts/sultana-rupa-3662a3318_hackathon-softwareshowcase-teamwork-activity-7334601014450208768-40GD">🔗 INNOVATEX 2025</a>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🥈-1ST%20RUNNER%20UP-C0C0C0?style=flat-square&labelColor=000000" />
+<br><strong>Hackathon</strong>
+<br><sub>UAP SNH Club</sub>
+<br><a href="https://www.linkedin.com/posts/sultana-rupa-3662a3318_hackathon-softwareshowcase-teamwork-activity-7334601014450208768-40GD">🔗 INNOVATEX 2025</a>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🥈-1ST%20RUNNER%20UP-C0C0C0?style=flat-square&labelColor=000000" />
+<br><strong>Ideathon</strong>
+<br><sub>UAP ECDC Club</sub>
+<br><a href="https://www.linkedin.com/posts/sultana-rupa-3662a3318_whirlwind-of-an-experience-at-ecdccapped-activity-7328796614574166016-zmTm">🔗 IDEA Season 4.0</a>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🎖️-4TH%20PLACE-CD7F32?style=flat-square&labelColor=000000" />
+<br><strong>Hackathon</strong>
+<br><sub>MIST Innovation Club</sub>
+<br><a href="https://www.linkedin.com/posts/sultana-rupa-3662a3318_we-the-mavericks-participated-in-the-mist-activity-7304528490811269121-u0cB">🔗 NEOFETCH</a>
+</td>
+</tr>
+</table>
+</div>
+
 <div align="center">
 <img width="42%" src="https://github-readme-stats.vercel.app/api?username=AsTeriaa09&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Statistics" />
 <img width="42%" src="https://github-readme-streak-stats.herokuapp.com?user=AsTeriaa09&theme=dark&hide_border=true&stroke=888888&ring=888888&fire=888888&currStreakLabel=888888" />
@@ -119,6 +122,8 @@
 </div>
 
 ---
+
+
 
 ## 🎯 Current Focus
 
