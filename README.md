@@ -128,7 +128,7 @@
 ## 🎯 Current Focus
 
 <div align="center">
-<img src="https://img.shields.io/badge/🔥-Building%20Python%20Web%20Apps-333333?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/🔥-Building%20FullStack%20Web%20Apps-333333?style=flat-square&labelColor=000000" />
 <img src="https://img.shields.io/badge/🚀-Exploring%20AI%20Integration-333333?style=flat-square&labelColor=000000" />
 <img src="https://img.shields.io/badge/💡-Open%20to%20Collaborations-333333?style=flat-square&labelColor=000000" />
 </div>
